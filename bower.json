@@ -21,5 +21,8 @@
     "angular-mocks": "^1.3.0"
   },
   "appPath": "app",
-  "moduleName": "easterdashApp"
+  "moduleName": "easterdashApp",
+  "resolutions": {
+    "angular": "1.4.7"
+  }
 }
